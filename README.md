@@ -104,6 +104,7 @@ Feel free to submit pull requests or raise issues. Contributions are always welc
 **Sean Njela**
 
 - GitHub: [@seannjela](https://github.com/sean-njela/log_archive.git)
+- Project Link: [@Project_link](https://roadmap.sh/projects/log-archive-tool)
 
 ---
 
